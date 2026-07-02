@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ranauslu.github.io/ranaguldesignerstudio/sitemap.xml
+Sitemap: https://ranaguldesigner.com/sitemap.xml
